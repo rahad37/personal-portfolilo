@@ -187,8 +187,8 @@ img{
     text-align: center;
 }
 .home_img{
-    padding-top: 1.3rem;
-    padding-left: .8rem;
+    padding-top: .6rem;
+    padding-left: .2rem;
     width: 160px;
     height: 160px;
     background-color: var(--first-color);
