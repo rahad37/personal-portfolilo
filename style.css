@@ -205,7 +205,7 @@ img{
     font-weight: var(--font-semi-bold);
 }
 .home_profession{
-    font-size: var(--small-font-size);
+    font-size: var(--h3-font-size);
     color: var(--first-color-dark);
     margin-bottom: var(--mb-5);
 }
