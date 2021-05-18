@@ -491,7 +491,7 @@ img{
     margin-bottom: var(--mb-2);
 }
 .works_title{
-    font-size: var(--h2-font-size);
+    font-size: var(--h4-font-size);
     color: var(--first-color-lighten);
 }
 .works_img:hover .works_data{
